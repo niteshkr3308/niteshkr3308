@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/niteshkr3308](www.linkedin.com/in/niteshkr3308)
 
-- 📝 I regularly write articles on [https://twitter.com/niteshkr3308](https://twitter.com/niteshkr3308)
+- 📝 I regularly write articles on [https://twitter.com/niteshkr3308](https://x.com/SparkTrendz3)
 
 - 💬 Ask me about **Android**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niteshkr3308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niteshkr3308" height="30" width="40" /></a>
+<a href="https://x.com/SparkTrendz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niteshkr3308" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niteshkr3308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niteshkr3308" height="30" width="40" /></a>
 <a href="https://fb.com/niteshkumarsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niteshkumarsah" height="30" width="40" /></a>
 <a href="https://instagram.com/k_i_n_g_n_i_t_e_s_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_n_g_n_i_t_e_s_h" height="30" width="40" /></a>
